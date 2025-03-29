@@ -1,14 +1,3 @@
-/**
- * Input
- * 
- * process
- * 
- * Output
- * 
- */
-
-
-
 const tinhThueThuNhap = (tongThuNhap, phuThuoc) => { 
     let thuNhapChiuThue = tongThuNhap - 4000000 - (phuThuoc*1600000)
 

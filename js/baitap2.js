@@ -1,16 +1,3 @@
-/**
- * IPO
- * 
- * Input: hoTen, soKW
- * 
- * Process:
- * B1: Lấy giá trị từ form
- * B2: Tính số kw
- *  +sumTienDien = 
- * 
- * Output: tinhTienDien
- */
-
 const KW_50_DAU = 500
 const KW_50_KE = 650
 const KW_100_KE = 850

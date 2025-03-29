@@ -1,12 +1,3 @@
-/**
- * Input
- * 
- * Process
- * 
- * Output
- * 
- */
-
 const tinhTienCap = (loaiKH,soKenh, soKetNoi) => {
     let phiXuLy = 0, phiDichVu = 0, thueKenh = 0, tongTien = 0;
     if (loaiKH == "nha-dan") {
